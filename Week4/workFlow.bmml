@@ -1,0 +1,9 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="907" measuredH="330" mockupW="847" mockupH="310">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::SiteMap" x="60" y="20" w="-1" h="-1" measuredW="847" measuredH="310" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%0A-%20Login%20Form%0A--%20Username%0A--%20Password%0A-%20About%20Us%0A-%20Categories%0A--Products%0A--Customers%0A-%20maintain/update%0A--details%20of%20account%0A--Login%20Details</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
